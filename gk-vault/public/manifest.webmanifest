@@ -1,0 +1,11 @@
+{
+  "name": "GK Vault",
+  "short_name": "GK Vault",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2f855a",
+  "icons": [
+    { "src": "/vite.svg", "sizes": "192x192", "type": "image/svg+xml" }
+  ]
+}
